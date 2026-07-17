@@ -1,6 +1,7 @@
 /**
  *  Java program to do operations on Hashtable.
  */
+
 package com.mycollections;
 
 import java.util.Hashtable;
